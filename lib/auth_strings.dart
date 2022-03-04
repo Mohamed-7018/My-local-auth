@@ -27,16 +27,16 @@ class AndroidAuthMessages {
     this.signInTitle,
   });
 
-  final String biometricHint;
-  final String biometricNotRecognized;
-  final String biometricRequiredTitle;
-  final String biometricSuccess;
-  final String cancelButton;
-  final String deviceCredentialsRequiredTitle;
-  final String deviceCredentialsSetupDescription;
-  final String goToSettingsButton;
-  final String goToSettingsDescription;
-  final String signInTitle;
+  final String? biometricHint;
+  final String? biometricNotRecognized;
+  final String? biometricRequiredTitle;
+  final String? biometricSuccess;
+  final String? cancelButton;
+  final String? deviceCredentialsRequiredTitle;
+  final String? deviceCredentialsSetupDescription;
+  final String? goToSettingsButton;
+  final String? goToSettingsDescription;
+  final String? signInTitle;
 
   Map<String, String> get args {
     return <String, String>{
@@ -71,11 +71,11 @@ class IOSAuthMessages {
     this.localizedFallbackTitle,
   });
 
-  final String lockOut;
-  final String goToSettingsButton;
-  final String goToSettingsDescription;
-  final String cancelButton;
-  final String localizedFallbackTitle;
+  final String? lockOut;
+  final String? goToSettingsButton;
+  final String? goToSettingsDescription;
+  final String? cancelButton;
+  final String? localizedFallbackTitle;
 
   Map<String, String> get args {
     return <String, String>{
@@ -85,7 +85,7 @@ class IOSAuthMessages {
           goToSettingsDescription ?? iOSGoToSettingsDescription,
       'okButton': cancelButton ?? iOSOkButton,
       if (localizedFallbackTitle != null)
-        'localizedFallbackTitle': localizedFallbackTitle,
+        'localizedFallbackTitle': localizedFallbackTitle!,
     };
   }
 }

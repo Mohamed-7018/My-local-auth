@@ -215,10 +215,10 @@
       "name": "local_auth",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.7"
+      "languageVersion": "2.12"
     }
   ],
-  "generated": "2022-03-04T12:37:56.619706Z",
+  "generated": "2022-03-04T16:33:51.240339Z",
   "generator": "pub",
   "generatorVersion": "2.13.3"
 }

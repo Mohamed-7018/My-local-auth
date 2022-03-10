@@ -3,13 +3,13 @@
   "packages": [
     {
       "name": "archive",
-      "rootUri": "file:///E:/old/Local%20Disk%20f/Users/smarthelp/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/archive-3.1.2",
+      "rootUri": "file:///E:/old/Local%20Disk%20f/Users/smarthelp/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/archive-3.1.6",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "async",
-      "rootUri": "file:///E:/old/Local%20Disk%20f/Users/smarthelp/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/async-2.6.1",
+      "rootUri": "file:///E:/old/Local%20Disk%20f/Users/smarthelp/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/async-2.8.2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -21,13 +21,13 @@
     },
     {
       "name": "characters",
-      "rootUri": "file:///E:/old/Local%20Disk%20f/Users/smarthelp/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/characters-1.1.0",
+      "rootUri": "file:///E:/old/Local%20Disk%20f/Users/smarthelp/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/characters-1.2.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "charcode",
-      "rootUri": "file:///E:/old/Local%20Disk%20f/Users/smarthelp/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/charcode-1.2.0",
+      "rootUri": "file:///E:/old/Local%20Disk%20f/Users/smarthelp/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/charcode-1.3.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -63,7 +63,7 @@
     },
     {
       "name": "file",
-      "rootUri": "file:///E:/old/Local%20Disk%20f/Users/smarthelp/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/file-6.1.0",
+      "rootUri": "file:///E:/old/Local%20Disk%20f/Users/smarthelp/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/file-6.1.2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -99,19 +99,25 @@
     },
     {
       "name": "intl",
-      "rootUri": "file:///E:/old/Local%20Disk%20f/Users/smarthelp/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/intl-0.17.0",
+      "rootUri": "file:///E:/old/Local%20Disk%20f/Users/smarthelp/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/intl-0.16.1",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.5"
     },
     {
       "name": "matcher",
-      "rootUri": "file:///E:/old/Local%20Disk%20f/Users/smarthelp/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/matcher-0.12.10",
+      "rootUri": "file:///E:/old/Local%20Disk%20f/Users/smarthelp/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/matcher-0.12.11",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
+      "name": "material_color_utilities",
+      "rootUri": "file:///E:/old/Local%20Disk%20f/Users/smarthelp/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/material_color_utilities-0.1.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.13"
+    },
+    {
       "name": "meta",
-      "rootUri": "file:///E:/old/Local%20Disk%20f/Users/smarthelp/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/meta-1.3.0",
+      "rootUri": "file:///E:/old/Local%20Disk%20f/Users/smarthelp/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/meta-1.7.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -129,15 +135,15 @@
     },
     {
       "name": "platform",
-      "rootUri": "file:///E:/old/Local%20Disk%20f/Users/smarthelp/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/platform-3.0.0",
+      "rootUri": "file:///E:/old/Local%20Disk%20f/Users/smarthelp/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/platform-3.1.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "process",
-      "rootUri": "file:///E:/old/Local%20Disk%20f/Users/smarthelp/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/process-4.2.1",
+      "rootUri": "file:///E:/old/Local%20Disk%20f/Users/smarthelp/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/process-4.2.4",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.14"
     },
     {
       "name": "sky_engine",
@@ -183,7 +189,7 @@
     },
     {
       "name": "test_api",
-      "rootUri": "file:///E:/old/Local%20Disk%20f/Users/smarthelp/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/test_api-0.3.0",
+      "rootUri": "file:///E:/old/Local%20Disk%20f/Users/smarthelp/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/test_api-0.4.8",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -195,13 +201,13 @@
     },
     {
       "name": "vector_math",
-      "rootUri": "file:///E:/old/Local%20Disk%20f/Users/smarthelp/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.1.0",
+      "rootUri": "file:///E:/old/Local%20Disk%20f/Users/smarthelp/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.1.1",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.14"
     },
     {
       "name": "vm_service",
-      "rootUri": "file:///E:/old/Local%20Disk%20f/Users/smarthelp/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/vm_service-6.2.0",
+      "rootUri": "file:///E:/old/Local%20Disk%20f/Users/smarthelp/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/vm_service-7.5.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -215,10 +221,10 @@
       "name": "local_auth",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.7"
     }
   ],
-  "generated": "2022-03-04T16:33:51.240339Z",
+  "generated": "2022-03-10T01:44:52.615894Z",
   "generator": "pub",
-  "generatorVersion": "2.13.3"
+  "generatorVersion": "2.16.1"
 }
